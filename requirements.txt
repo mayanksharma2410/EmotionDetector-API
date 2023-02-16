@@ -4,3 +4,4 @@ uvicorn
 pydantic
 keras
 fastapi
+pandas
