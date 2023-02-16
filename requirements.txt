@@ -3,3 +3,4 @@ tensorflow
 uvicorn
 pydantic
 keras
+fastapi
